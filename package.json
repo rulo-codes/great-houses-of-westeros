@@ -1,0 +1,19 @@
+{
+  "name": "great-houses-of-westeros",
+  "version": "1.0.0",
+  "description": "front-end project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rulo-codes/great-houses-of-westeros.git"
+  },
+  "author": "rulodotdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rulo-codes/great-houses-of-westeros/issues"
+  },
+  "homepage": "https://github.com/rulo-codes/great-houses-of-westeros#readme"
+}
