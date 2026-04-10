@@ -1,0 +1,9 @@
+Targaryen
+Arryn
+Baratheon
+Greyjoy
+Lannister
+Martell
+Stark
+Tully
+Tyrell
